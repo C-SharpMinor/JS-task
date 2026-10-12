@@ -1,11 +1,11 @@
 // writing the Author name and book title
-const bootTitle= "The Darkest Minds";
+const bookTitle= "The Darkest Minds";
 const author= "   Pitticus Lore   ";
 
 let copiesAvailable= 1000;
 copiesAvailable= 2000;
 
-console.log(bootTitle);
+console.log(bookTitle);
 console.log(author);
 console.log(copiesAvailable);
  
